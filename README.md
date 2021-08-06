@@ -11,8 +11,12 @@ En este periódico encontraras las noticias mas recientes acerca de política, e
 # AHORA SI, EL FIN DE UNA ERA.
 ## Lionel Messi no seguira con el barcelona.
 ### Apesar de averce llegado a un acuerdo entre el FC Barcelona y Messi con la clara intencion de firmar un nuevo contrato hoy, no se podra formalizar debido a obstaculos economicos y estructurales.
-### Ante esta situacion, Lionel Messi no seguira ligado al Barcelona. Las dos partes lamentan profundamente que no se puedan cumplir los deseos tanto del jugador como del club.
+### Ante esta situacion, Lionel Messi, no seguira ligado al Barcelona. Las dos partes lamentan profundamente que no se puedan cumplir los deseos tanto del jugador como del club.
+### Llegó siendo un niño, se marcha como el mejor de todos y convertido en la máxima leyenda del FC Barcelona. Terminó la etapa de Lionel Andrés Messi Cuccittini en el Barça.
 ![messi goat](/Este equipo/Descargas/messi se va del barcelona.png)
-### Llegó siendo un niño, se marcha como el mejor de todos y convertido en la máxima leyenda del FC Barcelona. Terminó la etapa de Lionel Andrés Messi Cuccittini en el Barça. EL FIN DE UNA ERA.
-### El FC Barcelona, ​​tras analizar el anuncio reciente de LaLiga sobre un acuerdo estratégico con el fondo de inversión internacional CVC, quiere exponer este posicionamiento:
-### El FC Barcelona considera que la operación que se ha hecho pública no ha sido suficientemente contrastada con los clubes (propietarios de los derechos de TV); que su importe no es congruente con los años de duración y que quedan afectados parte de los derechos audiovisuales de todos los clubes para los próximos 50 años.
+### Joan Laporta, el dirigente del Barcelona, aseguró que tanto el club como Messi querían firmar un nuevo contrato, pero en última instancia, las condiciones salariales según las reglas del Juego Limpio Financiero (FFP) de la Liga de Fútbol Profesional de España (LFP) impidieron que se llegara a un acuerdo.
+### El problema radica en que La Liga de Fútbol Profesional de España (LFP) estableció en 2013 un tope salarial total que cada club o Sociedad Anónima Deportiva (SAD) debe cumplir en cada temporada. El objetivo era permitir el saneamiento de las instituciones que tenían problemas financieros en aquel momento.
+### Como regla general, los clubes deben presentar antes del 30 de abril de cada año sus balances con las cifras de ingresos y gastos estructurales, y la diferencia que resulta de esos dos montos es lo que pueden gastar en el mercado de fichajes para la temporada que se inicia.
+### El problema del Barcelona es el mal resultado financiero de la última temporada, según relató el propio Laporta, quien asumió la presidencia del club el 17 de marzo de este año, sucediendo en el cargo a Josep Maria Bartomeu, quien dimitió en octubre de 2020. Por ende este año, Messi, no pudo renovar contrato, ya que las deudas que dejo la antigua administracion son estratosfericas y dificiles de pagar.
+### Aqui termina la carrera de Leo Messi en el Barcelona, el cual dio grandes triunfos y felicidades a este gran club.
+![Salida de Messi del Barca](/Este equipo/Descargas/Salida de Messi.png)
