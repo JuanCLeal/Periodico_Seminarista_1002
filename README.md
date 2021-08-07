@@ -21,7 +21,7 @@ En este periódico encontraras las noticias mas recientes acerca de política, e
 ### Aqui termina la carrera de Leo Messi en el Barcelona, el cual dio grandes triunfos y felicidades a este gran club.
 ![Salida de Messi del Barca](http://www.5septiembre.cu/wp-content/uploads/2020/08/messi-salida-fc-barcelona.jpg)
 
-#LLEGO EL MOMENTO DE ACTUALIZARCE
+# LLEGO EL MOMENTO DE ACTUALIZARCE
 ## Microsoft lanzara el nuevo Windows 11 para diferentes ordenadores.
 ![Windows logo](https://akket.com/wp-content/uploads/2019/11/Windows-11-stala-dostupna-dlya-zagruzki-1.jpg)
 ### Después del lanzamiento de Windows 10, Microsoft mencionó que sería la última versión de Windows. Esto debido a que el sistema operativo sería considerado como un servicio, con nuevas compilaciones, que son actualizaciones que mejoran aspectos estéticos y de funcionamiento del sistema.5​ Sin embargo, durante el mes de junio de 2021, surgieron especulaciones e incluso declaraciones de Microsoft de un nuevo “Refresh” al sistema operativo las cuales fueron confirmadas con la filtración del nombre en clave “Sun Valley” que da indicio de una versión completamente nueva de Windows.
